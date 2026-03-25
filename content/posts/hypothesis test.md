@@ -37,7 +37,7 @@ z = x+y
 $$z = x+y$$
 
 
-image 1: ![vertical.png](/static/images/vertical.png)
-- image 2: ![mlp_llama.png](/static/images/mlp_llama.png)
-- image 3: ![ER_SQL.jpg](/static/images/ER_SQL.jpg)
+image 1: ![vertical.png](/images/vertical.png)
+- image 2: ![mlp_llama.png](/images/mlp_llama.png)
+- image 3: ![ER_SQL.jpg](/images/ER_SQL.jpg)
 
