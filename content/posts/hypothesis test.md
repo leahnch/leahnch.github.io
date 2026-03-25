@@ -3,7 +3,7 @@ aliases:
 tags: []
 status:
 created: 2026-03-25T17:44
-updated: 2026-03-25T22:56
+updated: 2026-03-25T23:19
 title: hypothesis test
 date: 2026-03-25T19:50:57+11:00
 draft: false
@@ -43,4 +43,5 @@ image 1: ![vertical.png](/static/images/vertical.png)
 - image 4: ![comp2123_cheatsheet_page-0002.jpg](/static/images/comp2123_cheatsheet_page-0002.jpg)
 - image 6: ![horizontal.png](/static/images/horizontal.png)
 - image 7: ![APS.png](/static/images/APS.png)
+- image 8: ![CSH Diagram.png](/static/images/CSH%20Diagram.png)
 
