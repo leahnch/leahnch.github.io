@@ -37,8 +37,8 @@ z = x+y
 $$z = x+y$$
 
 
-image 1: ![vertical.png](/100%20projects/103%20learn/USYD%20MoCS/1.%20course%20materials%20-%20non%20markdown/COMP5329/COMP5329-Tutorials/materials/Week5_CNN/Figs/vertical.png)
-- image 2: ![mlp_llama.png](/100%20projects/103%20learn/USYD%20MoCS/1.%20course%20materials%20-%20non%20markdown/COMP5329/COMP5329-Tutorials/materials/Week3_MLP/Figs/mlp_llama.png)
-- image 3: ![ER_SQL.jpg](/100%20projects/103%20learn/USYD%20MoCS/1.%20course%20materials%20-%20non%20markdown/COMP9120/3.%20assignment/Assignment%201/ER_SQL.jpg)
-- image 4: ![comp2123_cheatsheet_page-0002.jpg](/100%20projects/103%20learn/USYD%20MoCS/1.%20course%20materials%20-%20non%20markdown/COMP9123/practice%20exams/comp2123_cheatsheet_page-0002.jpg)
+image 1: ![vertical.png](/images/vertical.png)
+- image 2: ![mlp_llama.png](/images/mlp_llama.png)
+- image 3: ![ER_SQL.jpg](/images/ER_SQL.jpg)
+- image 4: ![comp2123_cheatsheet_page-0002.jpg](/images/comp2123_cheatsheet_page-0002.jpg)
 
