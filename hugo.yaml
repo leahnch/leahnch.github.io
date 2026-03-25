@@ -4,11 +4,19 @@ languageCode: "en-us"
 paginate: 10
 theme: "PaperMod"
 
+frontmatter:
+  lastmod:
+    - :git  # pulls last git commit date for the file
+    - lastmod # fallback to manual lastmod: in front matter
+    - :fileModTime # fallback to OS file modification time
+    - date # fallback to manual date: in front matter
+
 params:
   author: "Leah Nguyen"
   description: "where I share learnings and projects in data science, machine learning, data analytics, and random favorite topics"
   defaultTheme: auto  # light / dark / auto
   ShowReadingTime: true
+  ShowLastMod: true
   ShowCodeCopyButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
