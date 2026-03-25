@@ -3,7 +3,7 @@ aliases:
 tags: []
 status:
 created: 2026-03-25T17:44
-updated: 2026-03-25T21:40
+updated: 2026-03-25T21:49
 title: hypothesis test
 date: 2026-03-25T19:50:57+11:00
 draft: false
@@ -39,4 +39,5 @@ $$z = x+y$$
 
 image 1: ![vertical.png](/static/images/vertical.png)
 - image 2: ![mlp_llama.png](/static/images/mlp_llama.png)
+- image 3: ![ER_SQL.jpg](/static/images/ER_SQL.jpg)
 
