@@ -3,7 +3,7 @@ aliases:
 tags: []
 status:
 created: 2026-03-25T17:44
-updated: 2026-03-25T21:35
+updated: 2026-03-25T21:40
 title: hypothesis test
 date: 2026-03-25T19:50:57+11:00
 draft: false
@@ -17,9 +17,9 @@ TocOpen: false
 ShowReadingTime: true
 ShowCodeCopyButtons: true
 ---
-< tldr >
+{{< tldr >}}
 this is about hypothesis test 
-< /tldr >
+{{< /tldr >}}
 
 inputs: 
 - Assignment2025.pdf: can change the data to something else, i.e. travel data from
