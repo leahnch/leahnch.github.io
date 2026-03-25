@@ -22,8 +22,8 @@ ShowCodeCopyButtons: true
 
 inputs: 
 - Assignment2025.pdf: can change the data to something else, i.e. travel data from
-	- [Assignment-3_540984105.html](/static/images/Assignment-3_540984105.html.md)
-	- [Assignment 3_540984105.Rmd](/static/images/Assignment%203_540984105.Rmd.md) 
+	- [Assignment-3_540984105.html](/images/Assignment-3_540984105.html.md)
+	- [Assignment 3_540984105.Rmd](/images/Assignment%203_540984105.Rmd.md) 
 - hypothesis testing
 
 # testing 
@@ -36,5 +36,5 @@ z = x+y
 $z = x+y$
 
 
-- ![vertical.png](/static/images/vertical.png)
+- ![vertical.png](/images/vertical.png)
 
