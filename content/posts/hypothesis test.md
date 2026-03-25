@@ -3,10 +3,10 @@ aliases:
 tags: []
 status:
 created: 2026-03-25T17:44
-updated: 2026-03-25T20:10
+updated: 2026-03-25T21:27
 title: hypothesis test
 date: 2026-03-25T19:50:57+11:00
-draft: false
+draft: true
 share: true
 categories: []
 author: Leah Nguyen
@@ -17,14 +17,15 @@ TocOpen: false
 ShowReadingTime: true
 ShowCodeCopyButtons: true
 ---
-
-
+{{< tldr >}}
+this is about hypothesis test 
+{{< /tldr >}}
 
 inputs: 
 - Assignment2025.pdf: can change the data to something else, i.e. travel data from
 	- [Assignment-3_540984105.html](/images/Assignment-3_540984105.html.md)
 	- [Assignment 3_540984105.Rmd](/images/Assignment%203_540984105.Rmd.md) 
-- hypothesis testing
+- source: hypothesis testing 
 
 # testing 
 ```python
@@ -33,8 +34,9 @@ y=2
 z = x+y
 ```
 
-$z = x+y$
+$$z = x+y$$
 
 
-- ![vertical.png](/images/vertical.png)
+image 1: ![vertical.png](/images/vertical.png)
+- image 2: ![mlp_llama.png](/images/mlp_llama.png)
 
