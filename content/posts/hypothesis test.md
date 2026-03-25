@@ -3,10 +3,9 @@ aliases:
 tags: []
 status:
 created: 2026-03-25T17:44
-updated: 2026-03-25T18:21
-title: "{{tp.file.title}}"
-date:
-  '{ tp.date.now("YYYY-MM-DDTHH:mm:ssZ") }':
+updated: 2026-03-25T19:50
+title: hypothesis test
+date: 2026-03-25T19:50:57+11:00
 draft: false
 share: true
 categories: []
@@ -17,10 +16,6 @@ showToc: true
 TocOpen: false
 ShowReadingTime: true
 ShowCodeCopyButtons: true
-cover:
-  image: ""
-  alt: ""
-  caption: ""
 ---
 
 
@@ -43,14 +38,3 @@ $z = x+y$
 
 - [vertical.png](/static/images/vertical.png)
 
-## Overview
-
-## Background
-
-## Main Content
-
-## Results
-
-## Limitations & Caveats
-
-## References
