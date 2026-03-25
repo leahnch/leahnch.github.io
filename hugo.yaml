@@ -24,7 +24,7 @@ params:
     - name: github
       url: "https://github.com/leahnch"
     - name: linkedin
-      url: "https://www.linkedin.com/in/leah-ha-nguyen
+      url: "https://www.linkedin.com/in/leah-ha-nguyen"
 
 markup:
   highlight:
