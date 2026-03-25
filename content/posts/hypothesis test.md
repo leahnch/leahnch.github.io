@@ -3,10 +3,10 @@ aliases:
 tags: []
 status:
 created: 2026-03-25T17:44
-updated: 2026-03-25T21:33
+updated: 2026-03-25T21:35
 title: hypothesis test
 date: 2026-03-25T19:50:57+11:00
-draft: true
+draft: false
 share: true
 categories: []
 author: Leah Nguyen
