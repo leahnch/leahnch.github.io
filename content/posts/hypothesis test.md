@@ -3,7 +3,7 @@ aliases:
 tags: []
 status:
 created: 2026-03-25T17:44
-updated: 2026-03-25T18:15
+updated: 2026-03-25T18:21
 title: "{{tp.file.title}}"
 date:
   '{ tp.date.now("YYYY-MM-DDTHH:mm:ssZ") }':
@@ -23,17 +23,7 @@ cover:
   caption: ""
 ---
 
-## Overview
 
-## Background
-
-## Main Content
-
-## Results
-
-## Limitations & Caveats
-
-## References
 
 inputs: 
 - [Assignment2025.pdf](/static/images/Assignment2025.pdf): can change the data to something else, i.e. travel data from
@@ -52,3 +42,15 @@ $z = x+y$
 
 
 - [vertical.png](/static/images/vertical.png)
+
+## Overview
+
+## Background
+
+## Main Content
+
+## Results
+
+## Limitations & Caveats
+
+## References
