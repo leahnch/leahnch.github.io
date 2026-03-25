@@ -3,7 +3,6 @@ title: "Knowledge quest"
 languageCode: "en-us"
 paginate: 10
 theme: "PaperMod"
-staticDir: images
 
 frontmatter:
   lastmod:
