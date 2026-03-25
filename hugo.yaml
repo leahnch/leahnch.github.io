@@ -1,0 +1,37 @@
+baseURL: "https://leahnch.github.io/"
+title: "Knowledge quest"
+languageCode: "en-us"
+paginate: 10
+theme: "PaperMod"
+
+params:
+  author: "Leah Nguyen"
+  description: "where I share learnings and projects in data science, machine learning, data analytics, and random favorite topics"
+  defaultTheme: auto  # light / dark / auto
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowToc: true
+  TocOpen: false
+  math: false  # override per-post in front matter
+
+  homeInfoParams:
+    Title: "Hi, I'm Leah!"
+    Content: "Data scientist writing about ML, stats, and data analytics"
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/leahnch"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/leah-ha-nguyen
+
+markup:
+  highlight:
+    style: github-dark
+    lineNos: true
+    codeFences: true
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true   # allows raw HTML in md
